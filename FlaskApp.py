@@ -13,4 +13,4 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 
-#division_by_zero = 1 / 0
+division_by_zero = 1 / 0
